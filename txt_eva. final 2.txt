@@ -1,0 +1,11 @@
+1. Reconocer los Principales Aspectos del Desarrollo Web
+Front-End: Se refiere a la parte del desarrollo web que interactúa directamente con el usuario. Los aspectos clave incluyen:
+
+HTML: Lenguaje de marcado para estructurar el contenido.
+CSS: Hojas de estilo para diseñar y personalizar la apariencia.
+JavaScript: Lenguaje de programación para crear interactividad.
+Elementos Fundamentales:
+
+Etiquetas HTML: <header>, <footer>, <section>, <article>, <nav>, etc.
+Propiedades CSS: color, background-color, font-size, margin, padding, etc.
+Métodos JavaScript: addEventListener(), querySelector(), innerHTML, etc.
